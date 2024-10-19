@@ -1,11 +1,22 @@
 body {
-    background-color: rgb(250, 255, 255);
+  background-color: rgb(250, 255, 255);
+  font-family: monospace;
 }
 h1 {
-    text-align: center;
+  text-align: center;
+  color: purple;
 }
 img {
-    position: relative;
-    margin: auto;
-    float: right;
+  position: relative;
+  margin: auto;
+  float: right;
+}
+
+h2 {
+  color: rgb(167, 6, 167);
+}
+
+a {
+  text-decoration: none;
+  color: rgb(231, 119, 231);
 }
